@@ -1,0 +1,9 @@
+[
+	{"id": 100, "idCategoria": 100, "nombre": "Remeras", "productos": []},
+	{"id": 101, "idCategoria": 100, "nombre": "Jeans", "productos": []},
+	{"id": 102, "idCategoria": 100, "nombre": "Joggers", "productos": []},
+	{"id": 103, "idCategoria": 100, "nombre": "Bermudas", "productos": []},
+	{"id": 104, "idCategoria": 101, "nombre": "Camisas y tops", "productos": []},
+	{"id": 105, "idCategoria": 101, "nombre": "Pantalones", "productos": []},
+	{"id": 106, "idCategoria": 101, "nombre": "Sweaters y buzos", "productos": []}
+]

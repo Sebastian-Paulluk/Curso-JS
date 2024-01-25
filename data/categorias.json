@@ -1,0 +1,4 @@
+[
+	{"id": 100, "nombre": "Hombre", "subCategorias": []},
+	{"id": 101, "nombre": "Mujer", "subCategorias": []}
+]

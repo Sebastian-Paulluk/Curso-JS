@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pre entrega 2</title>
+    <!-- Toastify -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <header id="header">
+        <div id="botonTema" title="Cambiar tema"><img id="imagenBotonTema" src="./assets/iconos/luna.png"></div>
+        <h1>Tienda de ropa</h1>
+    </header>
+    <nav>
+        <div id="contItemsFiltros">
+            <ul>
+                <p>Ordenar por</p>
+                <select id="orden">
+                    <option>Id</option>
+                    <option>Más nuevos</option>
+                    <option>Mayor precio</option>
+                    <option>Menor precio</option>
+                </select>
+            </ul>
+        </div>
+        <div>
+            <ul id="listaCategorias">
+                <li id="botonMostrarTodos">Todos los productos</li>
+            </ul>
+        </div>
+        <div id="contItemCarrito" title="Ir al carrito de compras">
+            <ul>
+                <li id="botonCarrito">
+                    <img src="./assets/iconos/carrito_blanco.png">
+                    <p id="textoCantItemsEnCarrito"></p>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div id="contenedorPrincipal"></div>
+    <footer></footer>
+    <!-- Toastify -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <!-- SweetAlert2 -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <script src="./index.js"></script>
+</body>
+</html>
