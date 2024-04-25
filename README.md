@@ -7,6 +7,5 @@ Ecommerce de artículos de ropa realizado como entrega final para el curso de Ja
 `<link>` : <https://ecommerce-ropa-js.vercel.app/>
 
 ## Screenshots
-
 ![](https://i.ibb.co/8gdH8WJ/home.png)
 
