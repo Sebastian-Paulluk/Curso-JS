@@ -5,3 +5,11 @@ Ecommerce de artículos de ropa realizado como entrega final para el curso de Ja
 ## Deploy en Vercel
 
 `<link>` : <https://ecommerce-ropa-js.vercel.app/>
+
+## Screenshots
+
+![](https://i.ibb.co/8gdH8WJ/home.png)
+![](https://i.ibb.co/m0XV6VG/home-dark.png)
+![](https://i.ibb.co/283wmNv/detalle.png)
+![](https://i.ibb.co/KVMnZfm/carrito.png)
+![](https://i.ibb.co/Mk9sDW0/caja.png)
